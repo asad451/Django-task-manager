@@ -1,5 +1,5 @@
 asgiref==3.11.1
-Django==6.0.2
+Django==5.0.2
 django-stubs==5.2.9
 django-stubs-ext==5.2.9
 djangorestframework==3.16.1
